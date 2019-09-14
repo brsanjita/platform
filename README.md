@@ -16,7 +16,6 @@ Tribe® is an Open-Source, Real-Time, Extensible, On-Demand Commerce Platform bu
 ### Mobile Apps Repository: https://github.com/tribehq/mobile-apps
 
 ## Technology Stack and Requirements
-* Golang >= 1.12
 * Redis as cache store
 * MongoDB >= 4.0 as data store.
 * Flutter for cross platform (iOS and Android) mobile applications.
